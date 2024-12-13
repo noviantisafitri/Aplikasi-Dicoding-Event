@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ivEventImage" type="id" />
+    <item name="tvEventName" type="id" />
+    <item name="tvCategory" type="id" />
+    <item name="tvDescription" type="id" />
+    <item name="btnOpenLink" type="id" />
+</resources>

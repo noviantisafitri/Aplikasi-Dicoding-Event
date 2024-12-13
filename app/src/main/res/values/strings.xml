@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EventDicoding</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="home">Home</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="finished">Finished</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="event_name">Event Name</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="search_results">Search Results</string>
+    <string name="event_image">Event Image</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="begin_time">Begin Time</string>
+    <string name="sisa_quota">Sisa Quota</string>
+    <string name="event_description">Event Description</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="belum_ada_event_favorite">Belum ada Event Favorite</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="favorite">Favorite</string>
+</resources>
